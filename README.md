@@ -1,4 +1,4 @@
-<h1 align="center"># 🏠 Hello👋, my name is Mykyta</h1>
+<h1 align="center"> 🏠 Hello👋, my name is Mykyta</h1>
 
 ## 📰 Social links
 
